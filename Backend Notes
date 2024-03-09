@@ -1,0 +1,10 @@
+Notes :
+
+=> How to connect frontend and backend in JS?
+
+Ans : Things to take care of 
+1. CORS.
+2. Setting proxy.
+
+
+
