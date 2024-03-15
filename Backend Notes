@@ -8,3 +8,10 @@ Ans : Things to take care of
 
 
 
+=> What is ODM and ORM?
+Ans : 
+Object-Relational Mapping (ORM) is a technique that lets you query and manipulate data from a database using an object-oriented paradigm. When talking about ORM, most people are referring to a library that implements the Object-Relational Mapping technique, hence the phrase "an ORM".
+And then with an ODM, it's basically doing the same thing, except for document databases. It's mapping from the objects in your application code to the documents in the database. Mongoose is a good example of an ODM. It works with MongoDB.
+
+
+==> use of IIFE function to connect a database 
